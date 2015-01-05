@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:034290_0000_0FFD7E2EC7004450"/>
-            <pb facs="tcp:034290_0001_0FFD7E09AD062B38"/>
+            <pb facs="unknown:034290_0000_0FFD7E2EC7004450"/>
+            <pb facs="unknown:034290_0001_0FFD7E09AD062B38"/>
             <p>PADDY's RESOURCE. BEING A SELECT COLLECTION OF ORIGINAL AND MODERN Patriotic Songs COMPILED FOR THE USE OF THE PEOPLE OF IRELAND. To which is added, ARTHUR O'CONNOR's ADDRESS.</p>
             <p>
                <hi>From the lateſt Edition—with Corrections.</hi>
@@ -121,7 +121,7 @@
                <hi>NEW-YORK:</hi> PRINTED BY R. WILSON, 149, PEARL-STREET; At the Requeſt of a number of <hi>Hibernians</hi> in THIS Country, who were deſirous of having Copies of them. 1798.</p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:034290_0002_0FFD7E0EC0FA4A38"/>
+            <pb facs="unknown:034290_0002_0FFD7E0EC0FA4A38"/>
             <head>CONTENTS.</head>
             <list>
                <item>The Exiled Iriſhman's Lamentation <hi>Page</hi> 1</item>
@@ -162,7 +162,7 @@
       </front>
       <body>
          <div type="songs">
-            <pb facs="tcp:034290_0003_0FFD7E28C1F2C398"/>
+            <pb facs="unknown:034290_0003_0FFD7E28C1F2C398"/>
             <head>Paddy's Reſource, &amp;c.</head>
             <div type="song">
                <head>THE EXILED IRISHMAN's LAMENTATION.</head>
@@ -208,7 +208,7 @@
                   </l>
                </lg>
                <lg>
-                  <pb n="2" facs="tcp:034290_0004_0FFD7E1D04C9D480"/>
+                  <pb n="2" facs="unknown:034290_0004_0FFD7E1D04C9D480"/>
                   <l>With principles pure, patrictic and firm,</l>
                   <l>
                      <hi>Erin ma vorneen! ſlan leat go brah!</hi>
@@ -285,7 +285,7 @@
                </lg>
             </div>
             <div type="song">
-               <pb n="3" facs="tcp:034290_0005_0FFD7E23E0244D50"/>
+               <pb n="3" facs="unknown:034290_0005_0FFD7E23E0244D50"/>
                <head>TEAGUE AND PAT.</head>
                <opener>Tune—<hi>"Patrick's Day in the Morning."</hi>
                </opener>
@@ -343,7 +343,7 @@
                </lg>
             </div>
             <div type="song">
-               <pb n="4" facs="tcp:034290_0006_0FFD7DD1EDC7A290"/>
+               <pb n="4" facs="unknown:034290_0006_0FFD7DD1EDC7A290"/>
                <head>UNION AND TRUTH.</head>
                <opener>Tune—<hi>"Ye vile Swiniſh herd in the ſly of taxation."</hi>
                </opener>
@@ -388,7 +388,7 @@
                   <l>With Republican glee ſtill let us agree.</l>
                   <l>And gallantly plant the Tree of Liberty.</l>
                   <l>
-                     <pb n="5" facs="tcp:034290_0007_0FFD7DF3349B5C88"/>
+                     <pb n="5" facs="unknown:034290_0007_0FFD7DF3349B5C88"/>
 The people, you ſee, do now all agree,</l>
                   <l>In ſpite of the tribe that long divided them;</l>
                   <l>We'll throw off the yoke—huzza! for the ſtroke,</l>
@@ -432,7 +432,7 @@ The people, you ſee, do now all agree,</l>
                <p>Tol, lol, &amp;c.</p>
             </div>
             <div type="song">
-               <pb n="6" facs="tcp:034290_0008_0FFD7E10EBCE3FA8"/>
+               <pb n="6" facs="unknown:034290_0008_0FFD7E10EBCE3FA8"/>
                <head>FREEDOM TRIUMPHANT.</head>
                <opener>Tune—<hi>"Boyne Water."</hi>
                </opener>
@@ -488,7 +488,7 @@ The people, you ſee, do now all agree,</l>
                   <l>From <hi>France</hi> now ſee LIBERTY's TREE,</l>
                   <l>It's branches wide extending;</l>
                   <l>
-                     <pb n="7" facs="tcp:034290_0009_0FFD7E20BA17FE78"/>
+                     <pb n="7" facs="unknown:034290_0009_0FFD7E20BA17FE78"/>
 The ſwine to it for ſhelter run—</l>
                   <l>Full faſt they are aſſembling—</l>
                   <l>They grunt and groan with hideous tone,</l>
@@ -532,7 +532,7 @@ The ſwine to it for ſhelter run—</l>
                   <l>Shall the poor man be told,</l>
                   <l>That becauſe he lacks gold,</l>
                   <l>
-                     <pb n="8" facs="tcp:034290_0010_0FFD7E25CEE120B8"/>
+                     <pb n="8" facs="unknown:034290_0010_0FFD7E25CEE120B8"/>
 His name among Freemen ſhall ne'er be enrol'd?</l>
                   <l>No:—periſh ſuch jargon,—whate er be man's ſtore,</l>
                   <l>
@@ -593,7 +593,7 @@ His name among Freemen ſhall ne'er be enrol'd?</l>
                      </gap>d at this reſiſtance,</l>
                   <l>Affected for to lend his aid, but kep't aloof his diſtance.</l>
                   <l>
-                     <pb facs="tcp:034290_0011_0FFD7E2D1EDD2B38"/>
+                     <pb facs="unknown:034290_0011_0FFD7E2D1EDD2B38"/>
 For tho' he ſcrew'd the bayonet on, yet he reſolved to push light—</l>
                   <l>And puny was the blaſt he blew in putting out the <hi>ruſh light!</hi>
                   </l>
@@ -667,7 +667,7 @@ For tho' he ſcrew'd the bayonet on, yet he reſolved to push light—</l>
                   <l>With twenty ſail joins RICHERY—and blazing is the <hi>ruſh light!</hi>
                   </l>
                   <l>
-                     <pb facs="tcp:034290_0012_0FFD7E139C74BAA0"/>
+                     <pb facs="unknown:034290_0012_0FFD7E139C74BAA0"/>
 Poor purblind cuckold JOHNNY BULL begins to fear a home, ſir,</l>
                   <l>That the People will lead him a dance, 'cauſe under him they groan ſir;</l>
                   <l>For FREEDOM<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -719,7 +719,7 @@ Poor purblind cuckold JOHNNY BULL begins to fear a home, ſir,</l>
                      </gap> obnoxious invaders,</l>
                   <l>And ne'er ſhut his ears to complain's.</l>
                   <l>
-                     <pb n="11" facs="tcp:034290_0013_0FFD7E18848FF418"/>
+                     <pb n="11" facs="unknown:034290_0013_0FFD7E18848FF418"/>
 When yet I remind our anceſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>
@@ -768,7 +768,7 @@ When yet I remind our anceſt<gap reason="illegible" resp="#PDCC" extent="2 lett
                   <l>Pray who is yon with crowned head,</l>
                   <l>And ſceptre in his hand?</l>
                   <l>
-                     <pb n="12" facs="tcp:034290_0014_0FFD7E2AEDE97AA0"/>
+                     <pb n="12" facs="unknown:034290_0014_0FFD7E2AEDE97AA0"/>
 Has he the earth and man-kind made,</l>
                   <l>That he ſhould them command?</l>
                   <l>No;—reaſon tells us plain—</l>
@@ -825,7 +825,7 @@ Has he the earth and man-kind made,</l>
                   <l>By the too's of oppreſſion we long were divided,</l>
                   <l>Superſtition and prejudice made us oft bleed—</l>
                   <l>
-                     <pb n="13" facs="tcp:034290_0015_0FFD7E067AFE5B20"/>
+                     <pb n="13" facs="unknown:034290_0015_0FFD7E067AFE5B20"/>
 But when <hi>all</hi> in friendſhip are firmly UNITED,</l>
                   <l>From diſcord and bigotry then we'll be freed.</l>
                   <l>UNION, UNION, NATIONAL UNION,</l>
@@ -875,7 +875,7 @@ But when <hi>all</hi> in friendſhip are firmly UNITED,</l>
                <l>When you no more in pain ſhall toil,</l>
                <l>Under ambitious <hi>England's</hi> pride—</l>
                <l>
-                  <pb n="14" facs="tcp:034290_0016_0FFD7DD426F64228"/>
+                  <pb n="14" facs="unknown:034290_0016_0FFD7DD426F64228"/>
 UNITE in heavenly concord ALL,</l>
                <l>And ſoon ye ſhall the yoke deſpiſe;</l>
                <l>Then <hi>Britiſh</hi> tyranny ſhall fall,</l>
@@ -923,7 +923,7 @@ UNITE in heavenly concord ALL,</l>
                   <l>We need never expect to be FREE.</l>
                </lg>
                <lg>
-                  <pb n="15" facs="tcp:034290_0017_0FFD7DF7B31D7AD0"/>
+                  <pb n="15" facs="unknown:034290_0017_0FFD7DF7B31D7AD0"/>
                   <l>Let us pull thoſe villains down,</l>
                   <l>Baſe minions of a crown,</l>
                   <l>To enſlave us is all they deſire;</l>
@@ -970,7 +970,7 @@ UNITE in heavenly concord ALL,</l>
                   <l>The ſplendid ornaments of ſtate,</l>
                   <l>Are fallen to diſgrace of late,</l>
                   <l>
-                     <pb n="16" facs="tcp:034290_0018_0FFD7E328C0777C0"/>
+                     <pb n="16" facs="unknown:034290_0018_0FFD7E328C0777C0"/>
 Tyrants begin to meet their fate,</l>
                   <l>Which they ſo well deſerved;</l>
                   <l>They're haſting to the mention'd place,</l>
@@ -1022,7 +1022,7 @@ Tyrants begin to meet their fate,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="17" facs="tcp:034290_0019_0FFD7E6333888140"/>
+               <pb n="17" facs="unknown:034290_0019_0FFD7E6333888140"/>
                <head>HONEST PAT.</head>
                <opener>Tune—<hi>"Girl I left behind me."</hi>
                </opener>
@@ -1068,7 +1068,7 @@ Tyrants begin to meet their fate,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="18" facs="tcp:034290_0020_0FFD7DFE56218AE8"/>
+               <pb n="18" facs="unknown:034290_0020_0FFD7DFE56218AE8"/>
                <head>THE VIRTUOUS WARRIORS.</head>
                <opener>Tune—<hi>"Roſlin Caſtle"</hi>
                </opener>
@@ -1121,7 +1121,7 @@ Tyrants begin to meet their fate,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="19" facs="tcp:034290_0021_0FFD7E1F30338210"/>
+               <pb n="19" facs="unknown:034290_0021_0FFD7E1F30338210"/>
                <head>THE CHARTER OF BROTHERHOOD.</head>
                <opener>Tune—<hi>"Viva la."</hi>
                </opener>
@@ -1174,7 +1174,7 @@ Tyrants begin to meet their fate,</l>
                   <l>Viva la! &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="20" facs="tcp:034290_0022_0FFD7E1AC669DC68"/>
+                  <pb n="20" facs="unknown:034290_0022_0FFD7E1AC669DC68"/>
                   <l>With your bodies form a rampart;</l>
                   <l>Plant it 'midſt a ſhower of balls:</l>
                   <l>If you do no act in concert,</l>
@@ -1229,7 +1229,7 @@ Tyrants begin to meet their fate,</l>
                   <l>Them all into Botany-Bay.</l>
                </lg>
                <lg>
-                  <pb n="21" facs="tcp:034290_0023_0FFD7DF0F876C5E0"/>
+                  <pb n="21" facs="unknown:034290_0023_0FFD7DF0F876C5E0"/>
                   <l>The war it goes on, by my faith juſt to get</l>
                   <l>More thouſands for ſlaughter, more millions of debt;</l>
                   <l>Diſgrace on diſgrace, my dear PAT is our lot,</l>
@@ -1294,7 +1294,7 @@ Tyrants begin to meet their fate,</l>
                   <l>And fill'd royal robbers with rage and dimſay.</l>
                </lg>
                <lg>
-                  <pb n="22" facs="tcp:034290_0024_0FFD7DFC14BE1EA0"/>
+                  <pb n="22" facs="unknown:034290_0024_0FFD7DFC14BE1EA0"/>
                   <l>Still be firm, O Hibernians—ſtill nobly diſdain,</l>
                   <l>And always the Rights of your country maintain;</l>
                   <l>Till with ſouls all averſion, mankind ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1346,7 +1346,7 @@ Tyrants begin to meet their fate,</l>
                      </gap>d us,</l>
                   <l>Like gods would bid their ſlaves adore,</l>
                   <l>
-                     <pb n="23" facs="tcp:034290_0025_0FFD7DF940A348C8"/>
+                     <pb n="23" facs="unknown:034290_0025_0FFD7DF940A348C8"/>
 But Man is Man, and who is more?</l>
                   <l>Then ſhall they longer laſh and goad us?</l>
                   <l>To arms, ye brave, &amp;c.</l>
@@ -1401,7 +1401,7 @@ But Man is Man, and who is more?</l>
                   <l>Yet doom thoſe Tars to ſlavery.</l>
                </lg>
                <lg>
-                  <pb n="24" facs="tcp:034290_0026_0FFD7E3416358C00"/>
+                  <pb n="24" facs="unknown:034290_0026_0FFD7E3416358C00"/>
                   <l>O! that ambition's callous train,</l>
                   <l>Who wiſh to ſhine in ſtory,</l>
                   <l>Who tinge with blood the earth and main,</l>
@@ -1445,7 +1445,7 @@ But Man is Man, and who is more?</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="25" facs="tcp:034290_0027_0FFD7E1524B5CBF0"/>
+               <pb n="25" facs="unknown:034290_0027_0FFD7E1524B5CBF0"/>
                <head>THE JOVIAL FRIENDS.</head>
                <opener>Tune—<hi>"When bidden to the Wake or Fair."</hi>
                </opener>
@@ -1488,7 +1488,7 @@ But Man is Man, and who is more?</l>
                   <l>With my black coat, And cravat ſo white.</l>
                </lg>
                <lg>
-                  <pb n="26" facs="tcp:034290_0028_0FFD7DCD6E1AC3D0"/>
+                  <pb n="26" facs="unknown:034290_0028_0FFD7DCD6E1AC3D0"/>
                   <l>Ye men of my pariſh I pray you take heed,</l>
                   <l>Till I give you a ſketch of my time-ſerving Creed—</l>
                   <l>My Creed it is caſh, and my ſtipend's ſalvation,</l>
@@ -1545,7 +1545,7 @@ But Man is Man, and who is more?</l>
                   <l>From the black coats, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="27" facs="tcp:034290_0029_0FFD7E0085B4EC18"/>
+                  <pb n="27" facs="unknown:034290_0029_0FFD7E0085B4EC18"/>
                   <l>I'm reſolv'd my opinions ſhall be the ſame ſtill,</l>
                   <l>With the court, <hi>whilſt in pow'r,</hi> let them be what they will,</l>
                   <l>With my black coat, &amp;c.</l>
@@ -1608,7 +1608,7 @@ But Man is Man, and who is more?</l>
                   <l>Viva la, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="28" facs="tcp:034290_0030_0FFD7DD894A4BE88"/>
+                  <pb n="28" facs="unknown:034290_0030_0FFD7DD894A4BE88"/>
                   <l>Sudden ſounding, from afar,</l>
                   <l>Freedom's awful voice was heard,</l>
                   <l>Glorious as the morning ſtar,</l>
@@ -1659,7 +1659,7 @@ But Man is Man, and who is more?</l>
                   <l>An emblem of great Liberty,</l>
                   <l>And Patriots danc'd around it—</l>
                   <l>
-                     <pb n="29" facs="tcp:034290_0031_0FFD7DCEF8877B38"/>
+                     <pb n="29" facs="unknown:034290_0031_0FFD7DCEF8877B38"/>
 The tools of murder near and far,</l>
                   <l>The Sons of FREEDOM thought to ſcar—</l>
                   <l>But GALLIA taught new modes of war,</l>
@@ -1714,7 +1714,7 @@ The tools of murder near and far,</l>
                   <l>The PEOPLE tell you to your face,</l>
                   <l>That you will ſoon repent it—</l>
                   <l>
-                     <pb n="30" facs="tcp:034290_0032_0FFD7DEB1FAA00B8"/>
+                     <pb n="30" facs="unknown:034290_0032_0FFD7DEB1FAA00B8"/>
 For Kings in pow'r and preaching drones,</l>
                   <l>The ſource of all our heavy groans,</l>
                   <l>Down from your <hi>pulpits</hi> and your <hi>thrones,</hi>
@@ -1765,7 +1765,7 @@ For Kings in pow'r and preaching drones,</l>
                   <l>And fight for either Turk or Pope,</l>
                   <l>Or their good friend—the Devil, O!</l>
                   <l>
-                     <pb n="31" facs="tcp:034290_0033_0FFD7DDFDDF74F78"/>
+                     <pb n="31" facs="unknown:034290_0033_0FFD7DDFDDF74F78"/>
 Nor care we, if the war ſhould yet,</l>
                   <l>Continue years full twenty, O!</l>
                   <l>Cauſe people all ſo ſaucy get,</l>
@@ -1814,7 +1814,7 @@ Nor care we, if the war ſhould yet,</l>
                   <l>And ſince from us their power has ſprung</l>
                   <l>We have a right to try it.</l>
                   <l>
-                     <pb facs="tcp:034290_0034_0FFD7DCB3B6287A8"/>
+                     <pb facs="unknown:034290_0034_0FFD7DCB3B6287A8"/>
 The ſtarving wretch who ſteals for bread,</l>
                   <l>But ſeldom mee<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1876,7 +1876,7 @@ The ſtarving wretch who ſteals for bread,</l>
                   <l>By th' enemies of Liberty.</l>
                </lg>
                <lg>
-                  <pb n="33" facs="tcp:034290_0035_0FFD7DE6090ACDD8"/>
+                  <pb n="33" facs="unknown:034290_0035_0FFD7DE6090ACDD8"/>
                   <l>When in ſome dungeon's ſolitude,</l>
                   <l>Deny<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1926,7 +1926,7 @@ The ſtarving wretch who ſteals for bread,</l>
                   <l>And ſtill united be.</l>
                </lg>
                <lg>
-                  <pb n="34" facs="tcp:034290_0036_0FFD7DE3B301D898"/>
+                  <pb n="34" facs="unknown:034290_0036_0FFD7DE3B301D898"/>
                   <l>Come Freedom's choſen band,</l>
                   <l>Let us join heart and hand,</l>
                   <l>Thus we'll make a glorious ſtand,</l>
@@ -1995,7 +1995,7 @@ The ſtarving wretch who ſteals for bread,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="35" facs="tcp:034290_0037_0FFD7E0D3271B240"/>
+               <pb n="35" facs="unknown:034290_0037_0FFD7E0D3271B240"/>
                <head>THE GRAVE-DIGGER's ADDRESS TO THE <hi>PRINCE OF WALES.</hi>
                </head>
                <opener>Tune—<hi>"Merrily danc'd the Quaker."</hi>
@@ -2039,7 +2039,7 @@ The ſtarving wretch who ſteals for bread,</l>
                   <l>Yet merrily, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="36" facs="tcp:034290_0038_0FFD7DEE0122E8A8"/>
+                  <pb n="36" facs="unknown:034290_0038_0FFD7DEE0122E8A8"/>
                   <l>But now as to your <hi>King-chance,</hi> ſir,</l>
                   <l>Indeed I would not buy it,</l>
                   <l>Or if I had it in my pow'r</l>
@@ -2093,7 +2093,7 @@ The ſtarving wretch who ſteals for bread,</l>
                   <l>Let us Unite;</l>
                </lg>
                <lg>
-                  <pb n="37" facs="tcp:034290_0039_0FFD7E35A030E010"/>
+                  <pb n="37" facs="unknown:034290_0039_0FFD7E35A030E010"/>
                   <l>Too long our eyes were veil'd,</l>
                   <l>Too long our Rights conceal<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2148,13 +2148,13 @@ The ſtarving wretch who ſteals for bread,</l>
             </div>
          </div>
          <div type="address">
-            <pb n="38" facs="tcp:034290_0040_0FFD7DDE53F275E8"/>
+            <pb n="38" facs="unknown:034290_0040_0FFD7DDE53F275E8"/>
             <head>ARTHUR O'CONNOR's ADDRESS TO THE FREE ELECTORS of the COUNTY of ANTRIM.</head>
             <opener>
                <salute>Fellow-Citizens.</salute>
             </opener>
             <p>THE POST-OFFICE is ſo immediately dependant on the Government, that any anonymous production iſſu<g ref="char:EOLhyphen"/>ing from thence, muſt be looked on as coming from the Ad<g ref="char:EOLhyphen"/>miniſtration itſelf; in this light I have viewed the anonymous paper which has been ſo induſtrouſly diſtrubuted through the Poſt Offices of the North, avowedly to deprive me of what<g ref="char:EOLhyphen"/>ever ſhare of your confidence I might have gained, and in this light I have given it an anſwer. Had I treated it with ſilent contempt, I ſhould have hoped that its coming from an Adminiſtration which had ſo deſervedly forfeited the confi<g ref="char:EOLhyphen"/>dence of every Iriſhman who valued the liberties of his coun<g ref="char:EOLhyphen"/>try, would have inſured me from ſuffering, in your eſtima<g ref="char:EOLhyphen"/>tion, from the falſhood and calumny with which it abounds; but my reſpect for thoſe invaluable Cenſors, the Preſs and the Public Opinion, the conſcious integrity of my own heart, and the moſt perfect reliance on the virtue of the cauſe I eſpouſe, prompt me to ſeize any occaſion which affords an opportunity of vindicating it or myſelf from the aſperſions of an Adminiſtration, whoſe heavieſt charge, in their wretched production, is, that at any time of my life I had been the advocate of them or their meaſures. As the whole of the work is one continued iſſue of miſrepreſen<g ref="char:EOLhyphen"/>tation and falſhood, a plain recital of facts will be the beſt means of giving it a full refutation. After the queſtion of Regency, that memorable diſplay of the infamy and principles of the factions of Ireland, ſome of the moſt conſiderable of them were forced into IRISH PARLIA<g ref="char:EOLhyphen"/>MENTARY, PATRIOTISM, by being ſtript of the wages of their proſtitution, I accepted a ſeat from my uncle Lord Longueville, in the chimerical hope that this craſh be<g ref="char:EOLhyphen"/>tween
-<pb n="39" facs="tcp:034290_0041_0FFD7DF4C15A0220"/>the factions and the Government, might be improv<g ref="char:EOLhyphen"/>ed to the advantage of Ireland: but experience ſoon con<g ref="char:EOLhyphen"/>vinced me that nothing ſhort of the eſtabliſhment of a NATIONAL GOVERNMENT, A TOTAL <gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="39" facs="unknown:034290_0041_0FFD7DF4C15A0220"/>the factions and the Government, might be improv<g ref="char:EOLhyphen"/>ed to the advantage of Ireland: but experience ſoon con<g ref="char:EOLhyphen"/>vinced me that nothing ſhort of the eſtabliſhment of a NATIONAL GOVERNMENT, A TOTAL <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>NIHILATION OF THE FACTIONS, AND THEIR U<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -2169,7 +2169,7 @@ The ſtarving wretch who ſteals for bread,</l>
                </gap>y contribute to aggrandize HIS country, at the ex<g ref="char:EOLhyphen"/>pence of every thing dear to MY OWN; whilſt ſo far from bartering my principles to better my fortune, that tho' Lord Longueville preſſed me to accept large ſums of his own mo<g ref="char:EOLhyphen"/>ney, I declined them; and it is notorious he has ſince diſin<g ref="char:EOLhyphen"/>herited me for the open avowal of my political ſentiments on the Catholic Queſtion. Being forced, in my own vindi<g ref="char:EOLhyphen"/>cation, to ſpeak of myſelf, I will leave you my fellow citi<g ref="char:EOLhyphen"/>zens, to judge of an Adminiſtration, that by fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ſhood and calumny, have attempted to widen a breach between me and connections that were but too widely extended before; yet whilſt they have given me an opportunity of proving to
-<pb n="40" facs="tcp:034290_0042_0FFD7DE84145D228"/>you that no conſideration could induce me to abandon my principles, they ſhall never ſucceed in making me utter one unkind expreſſion of a man whoſe wiſhes to pro<g ref="char:EOLhyphen"/>mote me in life, have left a grateful remembrance their malice ſhall never efface. Abandoned Adminſtration! who have trampled on the liberties of my country, do you preſume to accuſe me of diſſuading my courtrymen from arming to oppoſe an invaſion, which YOUR'S AND YOUR ACCOMPLICE'S CRIMES HAVE PROVOKED? Is it that the unalienable rights of free-born men to make the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="40" facs="unknown:034290_0042_0FFD7DE84145D228"/>you that no conſideration could induce me to abandon my principles, they ſhall never ſucceed in making me utter one unkind expreſſion of a man whoſe wiſhes to pro<g ref="char:EOLhyphen"/>mote me in life, have left a grateful remembrance their malice ſhall never efface. Abandoned Adminſtration! who have trampled on the liberties of my country, do you preſume to accuſe me of diſſuading my courtrymen from arming to oppoſe an invaſion, which YOUR'S AND YOUR ACCOMPLICE'S CRIMES HAVE PROVOKED? Is it that the unalienable rights of free-born men to make the<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> laws by delegates of their choice, ſhould be bartered and ſold by uſurpers and traitors, that I ſhould preſuade them to arm? Is it that our markets, our manufactures, and commerce, ſhould be ſold to that nation which appoints our Government, and diſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
@@ -2186,7 +2186,7 @@ The ſtarving wretch who ſteals for bread,</l>
                </gap>ics, whoſe elevated hopes of all glorious freedom, you have been appointed to tauntingly blaſt and if they ſhould charge you with the crimes of your miſſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>, although you cannot plead the having raiſed them to equal rights with their fellow-citizens, you can at leaſt boaſt that you have levelled thoſe rights to the ſtandard of Catholic thraldom. Hence, then, contemptible Admi<g ref="char:EOLhyphen"/>niſtration,
-<pb n="41" facs="tcp:034290_0043_0FFD7DE166C86010"/>from thoſe you have inſulted and levelled, to thoſe you have raiſed; go to the monopoliſts of the repreſentation of Ireland, and aſk them to arm; go to thoſe whom the continuance of the ſyſtem of corruption enables to live in affluence at the expence of that poverty and miſery their treaſon has cauſed, and aſk them to arm; go to thoſe huſſars of fees and exactions in the revenue, whoſe regular pay bears no proportion to their pillage and plunder, and com<g ref="char:EOLhyphen"/>mand them to arm; go to attorneys and lawyers, who live by villainy, chicane and fraud, under a ſyſtem of complexity, fineſſe and fiction, at the expence and ruin of thoſe who are forced to employ them, and tell them they ought to arm; go to thoſe ſwarms of petty tyrants, perjured grand-jury jobbers, army contractors <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="41" facs="unknown:034290_0043_0FFD7DE166C86010"/>from thoſe you have inſulted and levelled, to thoſe you have raiſed; go to the monopoliſts of the repreſentation of Ireland, and aſk them to arm; go to thoſe whom the continuance of the ſyſtem of corruption enables to live in affluence at the expence of that poverty and miſery their treaſon has cauſed, and aſk them to arm; go to thoſe huſſars of fees and exactions in the revenue, whoſe regular pay bears no proportion to their pillage and plunder, and com<g ref="char:EOLhyphen"/>mand them to arm; go to attorneys and lawyers, who live by villainy, chicane and fraud, under a ſyſtem of complexity, fineſſe and fiction, at the expence and ruin of thoſe who are forced to employ them, and tell them they ought to arm; go to thoſe ſwarms of petty tyrants, perjured grand-jury jobbers, army contractors <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>tythe proctors and land ſharks, and tell them how neceſſary it is for them to be armed; go to the ESTABLISHED clergy, who pocket thoſe monſtrous funds for <hi>inſtructing</hi> nine-tenths of the nation, which ſhould provide decent eſtabliſhments for three ſuch countries as Ireland, and tell them to preach to the nine-tenths who are excluded from this <hi>Glorious</hi> half of the con<g ref="char:EOLhyphen"/>ſtitution, to arm in its defence, or aſk them to blow the ex<g ref="char:EOLhyphen"/>piring embers of re<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -2216,8 +2216,8 @@ The ſtarving wretch who ſteals for bread,</l>
                </gap> the ru<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap> of freedom, by the erecting of barracks, thoſe bills that have been paſſed
-<pb n="42" facs="tcp:034290_0044_0FFD7DD660D55988"/>year after year, the late contempt of that only privilege of the commons which was left them, the granting of money, and the correſpondent conduct of their creatures in this coun<g ref="char:EOLhyphen"/>try ſhall have been developed to that degree which would make reſiſtance an indeſpenſable duty, from my ſoul I be<g ref="char:EOLhyphen"/>lieve that they would find themſelves widely miſtaken in the ſupport they will meet from many of theſe corps they have raiſed. Are the people of Ireland ſo weak as to convert a threatened invaſion from France into an expiation of the in<g ref="char:EOLhyphen"/>juſtice, the crimes and oppreſſion by which the temptation to make it was cauſed? or ſhall an invaſion from France act like magic in changing the preſent ardent affection of the people of Ireland for liberty, into an unbounded diſplay of loyalty to a ſyſtem of corruption and treaſon, by which the moſt happily gifted nation on earth has been made to contain more miſery than any country in the creation? Away with deluſion! Are the people of Ireland ſure that the factions and adminiſtra<g ref="char:EOLhyphen"/>tion who ſo earneſtly preſs them to ariſe to repel the invaſion of France, are not <hi>Invaders themſelves?</hi> Are we ſure that their maſter maker, the Miniſter of Britain, has not inveſted them with enormous funds of corruption to which our wretched<g ref="char:EOLhyphen"/>neſs has been made to contribute. Are we ſure that theſe funds have not been diſtributed amongſt traitors, in the heart of our Iſland, for betraying the induſtry, manufactures and commerce of the people of Ireland, to aggrandize thoſe of Great Britain? Nay, are we not certain that every market in Great Britain is ſhut againſt every ſpecies of Iriſh induſtry, with the ſolitary exception of linen, whilſt every manu<g ref="char:EOLhyphen"/>facture of England has free acceſs to every market in Ireland, without any exception whatever? With theſe facts in our view, what Iriſhman can doubt that to ſupport the worſt of invaſions, the invaſion of <hi>Rights and of Commerce,</hi> 15,000 Engliſh and Scotch have not been ſent to invade us already? or can we be certain that the ſhambles of Germany have not been reſorted to, to invade us with more? Com<g ref="char:EOLhyphen"/>pare the few troops they left us in the war againſt AME<g ref="char:EOLhyphen"/>RICAN FREEDOM, when they had all Europe their foe, with the numbers they have ſent us this war againſt the free<g ref="char:EOLhyphen"/>dom of France, when they had all Europe their ally; com<g ref="char:EOLhyphen"/>pare the weakneſs of Ireland, divided by religious diſſention, <hi>when troops were ſo few,</hi> with that ſtrength which UNION has given, when troops are ſo many; we cannot but ſee with
-<pb n="43" facs="tcp:034290_0045_0FFD7E04F06ABAC8"/>whom they ſeek to contend. Could French invaders do worſe than eſtabliſh a ſyſtem of pillage and treaſon <hi>within,</hi> that they may pillage and plunder <hi>without?</hi>—Could they do worſe than reject laws a unanimous people had ſought, or than paſs thoſe they deteſted; Could they do worſe than commit the perſonal liberty of the people of Ireland to two men without connection or intereſt in the country, without reſponſibility or controul? Could they do worſe than with<g ref="char:EOLhyphen"/>hold trials from Iriſh citizens caſt into dungeons, to the deſ<g ref="char:EOLhyphen"/>truction of their health, and the ruin of their property? Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="42" facs="unknown:034290_0044_0FFD7DD660D55988"/>year after year, the late contempt of that only privilege of the commons which was left them, the granting of money, and the correſpondent conduct of their creatures in this coun<g ref="char:EOLhyphen"/>try ſhall have been developed to that degree which would make reſiſtance an indeſpenſable duty, from my ſoul I be<g ref="char:EOLhyphen"/>lieve that they would find themſelves widely miſtaken in the ſupport they will meet from many of theſe corps they have raiſed. Are the people of Ireland ſo weak as to convert a threatened invaſion from France into an expiation of the in<g ref="char:EOLhyphen"/>juſtice, the crimes and oppreſſion by which the temptation to make it was cauſed? or ſhall an invaſion from France act like magic in changing the preſent ardent affection of the people of Ireland for liberty, into an unbounded diſplay of loyalty to a ſyſtem of corruption and treaſon, by which the moſt happily gifted nation on earth has been made to contain more miſery than any country in the creation? Away with deluſion! Are the people of Ireland ſure that the factions and adminiſtra<g ref="char:EOLhyphen"/>tion who ſo earneſtly preſs them to ariſe to repel the invaſion of France, are not <hi>Invaders themſelves?</hi> Are we ſure that their maſter maker, the Miniſter of Britain, has not inveſted them with enormous funds of corruption to which our wretched<g ref="char:EOLhyphen"/>neſs has been made to contribute. Are we ſure that theſe funds have not been diſtributed amongſt traitors, in the heart of our Iſland, for betraying the induſtry, manufactures and commerce of the people of Ireland, to aggrandize thoſe of Great Britain? Nay, are we not certain that every market in Great Britain is ſhut againſt every ſpecies of Iriſh induſtry, with the ſolitary exception of linen, whilſt every manu<g ref="char:EOLhyphen"/>facture of England has free acceſs to every market in Ireland, without any exception whatever? With theſe facts in our view, what Iriſhman can doubt that to ſupport the worſt of invaſions, the invaſion of <hi>Rights and of Commerce,</hi> 15,000 Engliſh and Scotch have not been ſent to invade us already? or can we be certain that the ſhambles of Germany have not been reſorted to, to invade us with more? Com<g ref="char:EOLhyphen"/>pare the few troops they left us in the war againſt AME<g ref="char:EOLhyphen"/>RICAN FREEDOM, when they had all Europe their foe, with the numbers they have ſent us this war againſt the free<g ref="char:EOLhyphen"/>dom of France, when they had all Europe their ally; com<g ref="char:EOLhyphen"/>pare the weakneſs of Ireland, divided by religious diſſention, <hi>when troops were ſo few,</hi> with that ſtrength which UNION has given, when troops are ſo many; we cannot but ſee with
+<pb n="43" facs="unknown:034290_0045_0FFD7E04F06ABAC8"/>whom they ſeek to contend. Could French invaders do worſe than eſtabliſh a ſyſtem of pillage and treaſon <hi>within,</hi> that they may pillage and plunder <hi>without?</hi>—Could they do worſe than reject laws a unanimous people had ſought, or than paſs thoſe they deteſted; Could they do worſe than commit the perſonal liberty of the people of Ireland to two men without connection or intereſt in the country, without reſponſibility or controul? Could they do worſe than with<g ref="char:EOLhyphen"/>hold trials from Iriſh citizens caſt into dungeons, to the deſ<g ref="char:EOLhyphen"/>truction of their health, and the ruin of their property? Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>d they do worſe than eſtabliſh military Magiſtrates throughout the nation, and indemnify thoſe whoſe unfeeling ſouls had torn hundreds of Iriſh citizens from every endearing connection in life, after depriving their habitations of every privilege due to the reſidence of free-born men, conſigned them to the flames, turning their wives and children to beggary and famine, exiled their huſbands to fight againſt that freedom which they had robbed them on an element they diſliked, and in a cauſe they abhorred? or could any thing be more a<g ref="char:EOLhyphen"/>larming to a people who valued liberty, than the appointment of a man, that could require ſuch an indemnification, to be commander in chief of the army? or to crown all, could any invaders do worſe, that with powers to legiſlate for a li<g ref="char:EOLhyphen"/>mited time, under the form of conſtitutional order, deſtroy the conſtitution itſelf?</p>
             <p>In vain ſhall the accomplices of the author of carnage inveigh againſt French fraternity, as long as Ireland exhi<g ref="char:EOLhyphen"/>bits ſo melancholy a picture of the fraternity they have adopted themſelves. I will not compare the ſyſtems of fraternity in Eaſt or Weſt Indies, adopted by England and France, but I will compare the alliance which Eng<g ref="char:EOLhyphen"/>land had formed with France, ſhe calls her natural enemy, with that ſhe dictates to Ireland, ſhe calls her brother and friend. In her a <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2231,7 +2231,7 @@ The ſtarving wretch who ſteals for bread,</l>
                </gap>clings boaſt of Britiſh connection—On this ſcale of Britiſh fraternity, may my country no more be curſed with the friendſhip of Britain! Too <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ong a tyrant, ſhe forgets her dominion has ceaſed—Too long her
-<pb n="44" facs="tcp:034290_0046_0FFD7E02C51B7EC0"/>ſlaves, we muſt ſhew her we are reſolved to be <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="44" facs="unknown:034290_0046_0FFD7E02C51B7EC0"/>ſlaves, we muſt ſhew her we are reſolved to be <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>! Had ſhe ceaſed to maintain power by the accur<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
